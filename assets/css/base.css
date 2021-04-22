@@ -1,0 +1,56 @@
+/** BASES */
+* {
+  margin : 0 ;
+  padding : 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: var(--font);
+  background: white;
+  color: var(--text-color);
+}
+
+section{
+  padding: 0rem 2rem 3rem 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+
+/* text */
+h1,h2,h3 {
+  color : var(--text-titre-color)
+}
+
+h1{
+  text-align: center;
+  font-size: 2.5em;
+  padding: 0 1em;
+}
+
+p{
+  color : var(--text-color);
+  margin: 1rem 0;
+  font-size: 1.1rem;
+}
+
+/* Links */
+a {
+  color: var(--color-principale);
+  text-decoration: none;
+}
+
+/* Media */
+img {
+  max-width: 100%;
+  vertical-align: bottom;
+}
+
+li{
+ list-style: none;
+ padding: 0.2rem;
+}
+
+

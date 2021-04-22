@@ -1,0 +1,25 @@
+/** COMPENENTS */
+
+/* Button */
+.button {
+  display: block;
+  width: 40%;
+  margin: 1rem auto 2rem auto;
+  padding: 1rem;
+  text-align: center;
+  background-color: var(--color-principale);
+  color: white;
+  border-radius: 50px;
+  text-decoration: none;
+}
+
+/* Icones */
+.icones{
+  width: 7%;
+  display: block;
+  margin: 2rem auto 1rem auto;
+}
+
+.icones-rs{
+  width: 20px;
+}

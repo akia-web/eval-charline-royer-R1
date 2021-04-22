@@ -1,0 +1,51 @@
+/** 
+ * VARIABLES 
+ * Définition des variables du site
+ * -------------------------------------------- */
+@import "css/variables.css";
+
+/** 
+ * BASE
+ * Définition des éléments de base 
+ * (ex. body, hN, links, media, etc...)
+ * --------------------------------------------- */
+@import "css/base.css";
+
+
+/** 
+ * COMPONENTS
+ * Définition des différents composants
+ * (ex. block, card, buttons, etc...)
+ * --------------------------------------------- */
+@import "css/components.css";
+
+
+
+/** 
+ * Header
+ * Définition de la partie header
+ * --------------------------------------------- */
+ @import "css/header.css";
+
+ /** 
+ * Sections
+ * Définition de la partie section
+ * (ex. section1, section2, section3, etc...)
+ * --------------------------------------------- */
+ @import "css/sections.css";
+
+  /** 
+ * footer
+ * Définition de la partie footer
+ * (ex. section1, section2, section3, etc...)
+ * --------------------------------------------- */
+ @import "css/footer.css";
+
+
+   /** 
+ * mediaquery
+ * Les mediaquery
+ * 
+ * --------------------------------------------- */
+ @import "css/media.css";
+ 

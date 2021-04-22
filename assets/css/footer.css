@@ -1,0 +1,45 @@
+footer{
+    background-color: var(--background-color);
+  
+}
+
+footer hr{
+    width: 90%;
+    margin: 0 auto;
+    background-color: var(--text-color);
+}
+
+footer p{
+    text-align: center;
+}
+
+.footer-top{
+ 
+    background-color: transparent;
+    display: flex;
+    flex-wrap: wrap;
+}
+  
+.footer{
+background-color: transparent;
+text-align: left;
+width: 50%;
+padding : 0 3rem 1rem 3rem ;
+margin: 1rem auto;
+
+}
+
+.footer a{
+    color : var(--text-color);
+    
+}
+
+.reseaux{
+background-color: transparent;
+justify-content: space-around;
+display: flex;
+padding: 0;
+margin: 0;
+}
+
+ 
